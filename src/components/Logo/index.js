@@ -7,6 +7,7 @@ export default function Logo() {
             <img
                 src={logo}
                 alt='logo'
+                className={styles.logoimg}
             />
             <p>Alura Books</p>
         </div>
